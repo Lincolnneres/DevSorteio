@@ -1,6 +1,6 @@
 <h1>DEVSORTEIO 🎲</h1>
 
-<h2>Esse é um Projeto de sorteio, na qual sorteia numeros aleatorios</h2>
+<h2>Esse é um Projeto de sorteio, na qual sorteia numeros aleatorios.</h2>
 <br>
 <h3>Técnologias utilizadas:</h3>
 <br>
