@@ -1,4 +1,4 @@
-<h1>DEVSORTEIO 🥤</h1>
+<h1>DEVSORTEIO 🎲</h1>
 
 <h2>Esse é um Projeto de sorteio, na qual sorteia numeros aleatorios</h2>
 <br>
