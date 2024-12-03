@@ -10,5 +10,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="badge-JavaScript"/>
 <br>
 <br>
-
 <a href="https://lincolnneres.github.io/DevSorteio/" target="_blank" > Link do Projeto</a>
+<br>
+<br>
+<div align="left">
+  <img src="https://github.com/Lincolnneres/DevSorteio/blob/main/assets/DEVSORTEIO.png?raw=true" widith="300px" height="300px"/>
+</div>
